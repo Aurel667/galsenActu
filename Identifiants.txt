@@ -1,0 +1,5 @@
+identifient : aurel02
+
+mdp : Aurel020704
+
+Base de donnée : galsenactu
